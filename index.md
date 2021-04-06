@@ -30,9 +30,9 @@ the freedom when realized can be desired can be created.
 to read the duration and English language reading skill only is required.
 
 # More from Kyle Sallee 
-(https://github.com/kyle-sallee)
-(https://kyle-sallee.github.io/ascript/)
-(https://kyle-sallee.github.io/A_DIVERT/)
-(https://kyle-sallee.github.io/The_Great_Creator_Emualtors/)
-(https://kyle-sallee.github.io/Freedom_Paydom/)
-(https://kyle-sallee.github.io/xlaunch/)
+* https://github.com/kyle-sallee
+* https://kyle-sallee.github.io/ascript/
+* https://kyle-sallee.github.io/A_DIVERT/
+* https://kyle-sallee.github.io/The_Great_Creator_Emulators/
+* https://kyle-sallee.github.io/Freedom_Paydom/
+* https://kyle-sallee.github.io/xlaunch/
